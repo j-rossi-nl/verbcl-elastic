@@ -1,0 +1,12 @@
+{
+  "_template": "gh:cjolowicz/cookiecutter-hypermodern-python",
+  "author": "Julien Rossi",
+  "development_status": "Development Status :: 4 - Beta",
+  "email": "j.rossi@uva.nl",
+  "friendly_name": "VerbCL Elastic",
+  "github_user": "j-rossi-nl",
+  "license": "MIT",
+  "package_name": "verbcl_elastic",
+  "project_name": "verbcl-elastic",
+  "version": "0.1.0"
+}
