@@ -1,6 +1,6 @@
 [tool.poetry]
 name = "verbcl-elastic"
-version = "0.1.0"
+version = "0.2.0"
 description = "VerbCL Elastic"
 authors = ["Julien Rossi <j.rossi@uva.nl>"]
 license = "MIT"
