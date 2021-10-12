@@ -25,7 +25,7 @@ VerbCL Elastic
 .. |Tests| image:: https://github.com/j-rossi-nl/verbcl-elastic/workflows/Tests/badge.svg
    :target: https://github.com/j-rossi-nl/verbcl-elastic/actions?workflow=Tests
    :alt: Tests
-.. |Codecov| image:: https://codecov.io/gh/j-rossi-nl/verbcl-elastic/branch/main/graph/badge.svg
+.. |Codecov| image:: https://codecov.io/gh/j-rossi-nl/verbcl-elastic/branch/master/graph/badge.svg
    :target: https://codecov.io/gh/j-rossi-nl/verbcl-elastic
    :alt: Codecov
 .. |pre-commit| image:: https://img.shields.io/badge/pre--commit-enabled-brightgreen?logo=pre-commit&logoColor=white
