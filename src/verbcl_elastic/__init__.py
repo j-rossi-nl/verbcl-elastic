@@ -142,7 +142,7 @@ def verbcl_es_init(**kwargs: Any) -> str:
     if not _class_init:
         # Always have a connection named "default"
         if _default_connection not in _list_aliases:
-            _create_connection(_default_connection)
+            _create_connection(_default_connection, **kwargs)
 
         OpinionDocument.init()
         OpinionSentence.init()
