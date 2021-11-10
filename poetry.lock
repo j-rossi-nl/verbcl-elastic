@@ -240,7 +240,7 @@ pipenv = ["pipenv"]
 
 [[package]]
 name = "elasticsearch"
-version = "7.15.0"
+version = "7.15.2"
 description = "Python client for Elasticsearch"
 category = "main"
 optional = false
@@ -1256,8 +1256,8 @@ dparse = [
     {file = "dparse-0.5.1.tar.gz", hash = "sha256:a1b5f169102e1c894f9a7d5ccf6f9402a836a5d24be80a986c7ce9eaed78f367"},
 ]
 elasticsearch = [
-    {file = "elasticsearch-7.15.0-py2.py3-none-any.whl", hash = "sha256:bf1d210d82c78fbd3ae5cbedd756716d732433cc97184966688dcd1c75df4619"},
-    {file = "elasticsearch-7.15.0.tar.gz", hash = "sha256:6c47eb68f643f3d7d6a6d971e571448b900b9470dc481421c9af9d28a1303911"},
+    {file = "elasticsearch-7.15.2-py2.py3-none-any.whl", hash = "sha256:83c299a08fc8737c72454e6d3b2a01ba1b194e4f4d9e4f8bae7058cec326f39f"},
+    {file = "elasticsearch-7.15.2.tar.gz", hash = "sha256:436f871848a5020bf9b47495812b229b59bd0c5d7e40adbd5e3c89896b311704"},
 ]
 elasticsearch-dsl = [
     {file = "elasticsearch-dsl-7.4.0.tar.gz", hash = "sha256:c4a7b93882918a413b63bed54018a1685d7410ffd8facbc860ee7fd57f214a6d"},
